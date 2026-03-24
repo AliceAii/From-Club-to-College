@@ -33,12 +33,6 @@ The analytic sample includes **9,720 students** from **800 high schools** who ha
 
 ```
 
-## How to Reproduce
-
-1. Obtain restricted-use HSLS:09 data from NCES and place the raw data files in the `data/` folder.
-2. Run `00_data_preparation.R` first to clean raw variables and impute missing data via MICE, producing the `.rds` analytic files.
-3. Run the remaining scripts in order (`01_setup.R` → `06_sensitivity_analysis.R`). Each script sources objects created in the preceding steps.
-4. Output tables and figures will be printed to the console or saved in the `output/` directory.
 
 ## Analytic Approach
 
