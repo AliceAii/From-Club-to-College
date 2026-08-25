@@ -67,7 +67,7 @@ All analyses were conducted in **R**. Key packages include:
 
 ## Citation
 
-> Ai, S., & Eagan, K. (2026). From club to college: The role of high school science clubs in shaping students' STEM major aspirations. *Research in Higher Education*.
+> Ai, S., & Eagan, K. (2026). From club to college: The role of high school science clubs in shaping students' STEM major aspirations. *Research in Higher Education*. https://doi.org/10.1007/s11162-026-09892-8
 
 ## License
 
